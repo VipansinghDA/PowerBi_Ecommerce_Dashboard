@@ -1,11 +1,11 @@
 # PowerBi_Ecommerce_Dashboard
 I have created this project as it demonstrates my ability to translate complex data into actionable insights.
 
-<!-- Introduction -->
+*Introduction*
 
 Welcome to the ECOMMERCE SALES DASHBOARD repository! This interactive dashboard provides valuable insights and visualizations for ecommerce company. The purpose of this project is to breakdown complex data into useful insights.
 
-<!-- Comprehensive data analysis and visualization:  -->
+*Comprehensive data analysis and visualization*
 
 - Explore the data using a wide range of charts, graphs, maps, and tables.
 - Advanced calculations and measures: Derive insights using complex calculations and measures implemented with DAX (Data Analysis Expressions).
@@ -13,7 +13,7 @@ Welcome to the ECOMMERCE SALES DASHBOARD repository! This interactive dashboard 
 - Mobile optimization: The dashboard is optimized for mobile devices, allowing users to access and explore the data on-the-go.
 - Custom visuals: Incorporate custom visuals to enhance the visual impact and provide unique ways to analyze the data.
 
-<!-- Usage Instructions -->
+*Usage Instructions*
 
 - Clone or download this repository to your local machine.
 - Open the ECOMMERCE SALES DASHBOARD.pbix file using Power BI Desktop.
