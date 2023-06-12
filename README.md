@@ -22,7 +22,7 @@ Welcome to the ECOMMERCE SALES DASHBOARD repository! This interactive dashboard 
 - Save and publish the dashboard to Power BI Service for broader access and collaboration.
 - Refer to the documentation or comments within the Power BI file for any additional instructions or considerations.
 
-<!-- Acknowledgements -->
+*Acknowledgements*
 
 We hope you find this Power BI dashboard useful and insightful. If you have any questions or need assistance, please don't hesitate to reach out. Enjoy exploring the data!
 
